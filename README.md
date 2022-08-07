@@ -1,2 +1,12 @@
 # Wi-Connect
-Connect To Other Computers Using an IP address and a PORT number
+Connect to Other Computers Using IP addresses and PORT number
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+As Server put the PORT number 80 and THEN CLICK START
+------------------------------------------------------------------------------------------------------------------------------
+As A CLIENT put the SERVER-ID ADDRESS AND the PORT number and THEN CLICK CONNECT
+-----------------------------------------------------------------------------------------------------------------------------
+NOTE: THE PORT NUMBER SHOULD BE THE SAME.
+
+#thank YOU 
